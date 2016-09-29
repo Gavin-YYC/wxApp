@@ -1,0 +1,8 @@
+.aa {
+  height: 100rpx;
+  width: 100rpx;
+  margin-top: 200rpx;
+  margin-left: 200rpx;
+  border-radius: 50%;
+  border: 5rpx solid #ccc;
+}
