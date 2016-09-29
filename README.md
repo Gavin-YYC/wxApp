@@ -2,11 +2,10 @@
 
 微信小程序开发QQ：589408404
 
-* Demo1 项目目录结构--主体文件
-* Demo2 项目目录结构--页面
-* Demo3 认识MINA框架
-* Demo4 从创建页面开始
-* Demo5 页面如何切换--路由
+* Demo1 项目目录结构 -- 主体文件
+* Demo2 项目目录结构 -- 页面
+* Demo3 创建一个小Demo -- slider小Demo
+* Demo4 网络请求 -- 天气预报
 
 ### 补充一些资料
 
@@ -17,3 +16,17 @@
 关于小程序，很多人有认识的错误，看下这个扫盲的文章：
 
 [微信小程序，大多数人都搞错的八个问题](http://geek.csdn.net/news/detail/104430)
+
+### 目录结构示例
+
+> Demo2
+
+通过swiper实现多tab的切换页面：
+
+![gif](Demo2/demo.gif)
+
+> Demo3
+
+通过slider实现简单的输入、选择交互效果
+
+![gif](Demo3/slider.gif)
