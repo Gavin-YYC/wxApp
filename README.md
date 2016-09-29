@@ -5,7 +5,7 @@
 * Demo1 项目目录结构 -- 主体文件
 * Demo2 项目目录结构 -- 页面
 * Demo3 创建一个小Demo -- slider小Demo
-* Demo4 网络请求 -- 天气预报
+* Demo4 创建动画 -- 超酷圆形进度条
 
 ### 补充一些资料
 
@@ -21,12 +21,18 @@
 
 > Demo2
 
-通过swiper实现多tab的切换页面：
+练习swiper：通过swiper实现多tab的切换页面：
 
 ![gif](Demo2/demo.gif)
 
 > Demo3
 
-通过slider实现简单的输入、选择交互效果
+练习slider：通过slider实现简单的输入、选择交互效果
 
 ![gif](Demo3/slider.gif)
+
+> Demo4
+
+练习animation，创建动画
+
+![gif](Demo4/demo.gif)
