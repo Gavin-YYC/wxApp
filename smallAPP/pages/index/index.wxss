@@ -31,6 +31,7 @@
 }
 .cates .cate .img {
   width: 110rpx;
+  height: 150rpx;
 }
 .cates .cate .name {
   font-size: 30rpx;

@@ -2,7 +2,7 @@
     <!--循环生成列表-->
     <block wx:key="1" wx:for="{{myList}}">
         <view class="item {{item.className}}" bindtap="{{item.events}}">
-            <icon class="icon-main" style="background-image:url({{item.iconPath}})" />
+            <image class="icon-main" src="{{item.iconPath}}" />
             <text class="name">{{item.name}}</text>
             <text class="info">{{item.info}}</text>
             <view class="iconf i-arrow-r"></view>
